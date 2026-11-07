@@ -1,7 +1,6 @@
 class Redtab < Formula
   desc "Terminal Reddit reader with tabs and browser-session sign-in"
   homepage "https://github.com/kapral18/redtab"
-  version "0.1.0"
   license "MIT"
 
   on_macos do
