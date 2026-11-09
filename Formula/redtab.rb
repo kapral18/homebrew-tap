@@ -5,23 +5,23 @@ class Redtab < Formula
 
   on_macos do
     on_arm do
-      url "https://github.com/kapral18/redtab/releases/download/v0.1.0/redtab-v0.1.0-aarch64-apple-darwin.tar.gz"
-      sha256 "2369aa7e1a418d7a69a7f3ba87f968cd9e4106ad6cfd62916b2bac4db8413ba4"
+      url "https://github.com/kapral18/redtab/releases/download/v0.1.1/redtab-v0.1.1-aarch64-apple-darwin.tar.gz"
+      sha256 "11c6151c0c7a67ef86a12a40b55b3307f93473e4085944f9c2f3081b4163f93b"
     end
     on_intel do
-      url "https://github.com/kapral18/redtab/releases/download/v0.1.0/redtab-v0.1.0-x86_64-apple-darwin.tar.gz"
-      sha256 "726988163fbc8d4af66733a4b215c2774c0c7b419365f8d32999194cf3fb3ab1"
+      url "https://github.com/kapral18/redtab/releases/download/v0.1.1/redtab-v0.1.1-x86_64-apple-darwin.tar.gz"
+      sha256 "beb0bfee1ee6a9af60d9163bf4a1341879151ae5358153497e832487355b6988"
     end
   end
 
   on_linux do
     on_arm do
-      url "https://github.com/kapral18/redtab/releases/download/v0.1.0/redtab-v0.1.0-aarch64-unknown-linux-gnu.tar.gz"
-      sha256 "71de2db4d9facedb9bf6df655dcf2adf41d98be49565ff1f8e878a4a764cc574"
+      url "https://github.com/kapral18/redtab/releases/download/v0.1.1/redtab-v0.1.1-aarch64-unknown-linux-gnu.tar.gz"
+      sha256 "7409b68ed8d3083000a5ed8a1284f9d29d861e6493755d22ceb80d2ec89dfd80"
     end
     on_intel do
-      url "https://github.com/kapral18/redtab/releases/download/v0.1.0/redtab-v0.1.0-x86_64-unknown-linux-gnu.tar.gz"
-      sha256 "6177e0099c618b79adcf87fa31358d4ac294c43f7f6ca896cfdb0ca6ab187e3f"
+      url "https://github.com/kapral18/redtab/releases/download/v0.1.1/redtab-v0.1.1-x86_64-unknown-linux-gnu.tar.gz"
+      sha256 "285b04f219f09faf67196f5134234cd830df082bd3e30f49c24ee314a1d05876"
     end
   end
 
